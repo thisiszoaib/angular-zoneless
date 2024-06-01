@@ -11,7 +11,7 @@ https://youtu.be/vHNeAqgNM4o
 
 # Support
 
-If you'd like, you can show your support by [buying me a coffee here]https://buymeacoffee.com/zoaibkhan).
+If you'd like, you can show your support by [buying me a coffee here](https://buymeacoffee.com/zoaibkhan).
 
 Cheers,
 Zoaib
